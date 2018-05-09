@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
-  "id": "https://w3id.org/blockcerts/samples/2.0/revocation-list-testnet.json",
+  "id": "https://raw.githubusercontent.com/AnthonyRonning/https-github.com-labnol-files/master/revocation-eth.json?raw=true",
   "type": "RevocationList",
   "issuer": "https://raw.githubusercontent.com/AnthonyRonning/https-github.com-labnol-files/master/issuer-eth.json?raw=true",
   "revokedAssertions": [
