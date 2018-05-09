@@ -6,11 +6,7 @@
   "revokedAssertions": [
     {
       "id": "urn:uuid:3bc1a96a-3501-46ed-8f75-49612bbac257",
-      "revocationReason": "Honor code violation"
-    },
-    {
-      "id": "urn:uuid:eda7d784-c03b-40a2-ac10-4857e9627329",
-      "revocationReason": "Issued in error."
+      "revocationReason": "Accidentally issued to Ethereum"
     }
   ]
 }
