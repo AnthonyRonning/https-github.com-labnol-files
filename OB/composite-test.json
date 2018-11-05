@@ -17,7 +17,6 @@
   "expires": "2020-06-30T23:59:59Z",
   "badge": {
     "type": "BadgeClass",
-    "id": "https://raw.githubusercontent.com/AnthonyRonning/https-github.com-labnol-files/master/OB/composite-test.json",
     "name": "Awesome Robotics Badge",
     "description": "For doing awesome things with robots that people think is pretty great.",
     "image": {
@@ -31,7 +30,6 @@
     },
     "issuer": {
       "type": "Profile",
-      "id": "https://raw.githubusercontent.com/AnthonyRonning/https-github.com-labnol-files/master/OB/composite-test.json",
       "name": "An Example Badge Issuer",
       "image": "https://example.org/logo.png",
       "url": "https://example.org",
