@@ -17,12 +17,12 @@
   "expires": "2020-06-30T23:59:59Z",
   "badge": {
     "type": "BadgeClass",
-    "id": "urn:uuid:a953081a-4bbd-4927-9653-7219bca00e3e",
+    "id": "https://example.org/robotics-badge.json",
     "name": "Awesome Robotics Badge",
     "description": "For doing awesome things with robots that people think is pretty great.",
     "image": {
       "id": "https://example.org/robot-badge.png",
-      "caption": "A pretty badge, with many happy trees.",
+      "caption": "A pretty badge7219bca00e3e, with many happy trees.",
       "author": "http://example.org/Bob_Ross_profile.json"
     },
     "criteria": {
@@ -31,7 +31,7 @@
     },
     "issuer": {
       "type": "Profile",
-      "id": "urn:uuid:a953081a-4bbd-4927-9653-7219bca00e3b",
+      "id": "https://example.org/robotics-badge.json",
       "name": "An Example Badge Issuer",
       "image": "https://example.org/logo.png",
       "url": "https://example.org",
