@@ -30,7 +30,7 @@
       "narrative": "To earn the **Awesome Robotics Badge**, students must construct a basic robot.\n\nThe robot must be able to:\n\n  * Move forward and backwards.\n * Pick up a bucket by its handle."
     },
     "issuer": {
-      "id": "https://stage-certificates.learningmachine.io/issuer/5aa948869f9e900007891663.json"
+      "id": "https://stage-certificates.learningmachine.io/issuer/5aa948869f9e900007891663.json",
       "type": "Profile",
       "name": "An Example Badge Issuer",
       "image": "https://example.org/logo.png",
