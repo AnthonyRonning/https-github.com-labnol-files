@@ -16,6 +16,7 @@
   "issuedOn": "2016-12-31T23:59:59Z",
   "expires": "2020-06-30T23:59:59Z",
   "badge": {
+    "id": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_example/robotics-badge.json",
     "type": "BadgeClass",
     "name": "Awesome Robotics Badge",
     "description": "For doing awesome things with robots that people think is pretty great.",
@@ -29,6 +30,7 @@
       "narrative": "To earn the **Awesome Robotics Badge**, students must construct a basic robot.\n\nThe robot must be able to:\n\n  * Move forward and backwards.\n * Pick up a bucket by its handle."
     },
     "issuer": {
+      "id": "https://stage-certificates.learningmachine.io/issuer/5aa948869f9e900007891663.json"
       "type": "Profile",
       "name": "An Example Badge Issuer",
       "image": "https://example.org/logo.png",
