@@ -22,7 +22,7 @@
         }
     ],
     "type": "Assertion",
-    "id": "http://localhost/openbadge/5adfa37a7e3550e495914fcd178acabf/assertion",
+    "id": "https://raw.githubusercontent.com/AnthonyRonning/https-github.com-labnol-files/master/OB/test1",
     "recipient": {
         "type": "email",
         "identity": "216iphone@email.ghostinspector.com",
