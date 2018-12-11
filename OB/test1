@@ -39,5 +39,8 @@
     },
     "issuedOn": "2018-12-10T16:11:51.647-06:00",
     "nonce": "54eea00d-40d8-46f7-9475-6bdf232fd083",
-    "universalIdentifier": "5adfa37a-7e35-50e4-9591-4fcd178acabf"
+    "universalIdentifier": "5adfa37a-7e35-50e4-9591-4fcd178acabf",
+    "verification": {
+    "type": "hosted"
+    }
 }
