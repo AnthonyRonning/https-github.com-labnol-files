@@ -3,14 +3,6 @@
         "https://w3id.org/openbadges/v2",
         "https://w3id.org/blockcerts/v2",
         {
-            "metadataJson": {
-                "@id": "https://schemas.learningmachine.com/2017/blockcerts/metadata",
-                "@type": "https://schemas.learningmachine.com/2017/types/text/json"
-            },
-            "displayHtml": {
-                "@id": "https://schemas.learningmachine.com/2017/blockcerts/displayHtml",
-                "@type": "https://schemas.learningmachine.com/2017/types/text/html"
-            },
             "nonce": {
                 "@id": "https://schemas.learningmachine.com/2017/blockcerts/nonce",
                 "@type": "https://schema.org/Text"
@@ -28,12 +20,6 @@
         "identity": "216iphone@email.ghostinspector.com",
         "hashed": false
     },
-    "recipientProfile": {
-        "type": [
-            "RecipientProfile",
-            "Extension"
-        ]
-    },
     "badge": {
         "type": "BadgeClass",
         "id": "urn:uuid:24cb8d74-0505-59c5-ac2d-dee40240c3f4",
@@ -43,19 +29,13 @@
         "criteria": "test",
         "issuer": {
             "type": "Profile",
-            "id": "http://localhost/issuer/5beb4c4a4eb2a00578561309.json",
+            "id": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_example/issuer.json",
             "name": "Test1",
             "url": "https://test1.com",
             "email": "test@test.com",
             "revocationList": "http://localhost/issuer/5beb4c4a4eb2a00578561309/revocation.json"
         },
         "signatureLines": []
-    },
-    "verification": {
-        "type": [
-            "MerkleProofVerification2017",
-            "Extension"
-        ]
     },
     "issuedOn": "2018-12-10T16:11:51.647-06:00",
     "nonce": "54eea00d-40d8-46f7-9475-6bdf232fd083",
