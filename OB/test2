@@ -34,7 +34,7 @@
         "signatureLines": []
     },
     "verification": {
-        "@type": "HostedBadge"
+        "type": "HostedBadge"
     },
     "issuedOn": "2018-12-10T16:11:51.647-06:00",
     "nonce": "b28e2ca0-9ba8-46c2-9a9e-9ad93f34e906",
