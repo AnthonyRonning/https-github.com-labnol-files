@@ -22,7 +22,7 @@
     },
     "issuer": {
       "type": "Profile",
-      "id": "https://raw.githubusercontent.com/fuerve/blockcerts-testing/master/blockcerts_example/issuer.json",
+      "id": "https://auto-certificates.learningmachine.io/issuer/5b91a8904f326d0006384e13.json",
       "name": "Anthony Test7",
       "url": "https://learningmachine.com",
       "email": "aronning@learningmachine.com",
