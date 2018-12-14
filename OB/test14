@@ -31,7 +31,5 @@
     "type": "HostedBadge"
   },
   "issuedOn": "2018-12-13T12:14:15.483-06:00",
-  "nonce": "4c418d95-69d8-44dc-b3e3-ca20bf9f3504",
-  "universalIdentifier": "fa963271-ef1d-5173-9416-0ed90bd1880c",
   "revoked": false
 }
