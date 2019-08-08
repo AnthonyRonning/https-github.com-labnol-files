@@ -1,6 +1,6 @@
 {
   "id": "https://raw.githubusercontent.com/AnthonyRonning/https-github.com-labnol-files/master/id.json",
-  "type": "EcdsaKoblitzSignature2016",
+  "type": "EcdsaSecp256k1Signature2019",
   "publicKeyBase58": "Ree8HFLvH88dPFaGcuk8WcRwFsjGkBsJpRzyGKE7XrfRm3VCETeaEmtGt7BEmTiYmSrA9HSRbf1dsmahyqnzfse1",
   "@context": "https://w3id.org/security/v2",
   "controller": "https://raw.githubusercontent.com/AnthonyRonning/https-github.com-labnol-files/master/controller.json"
