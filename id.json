@@ -3,5 +3,5 @@
   "type": "EcdsaKoblitzSignature2016",
   "publicKeyBase58": "Ree8HFLvH88dPFaGcuk8WcRwFsjGkBsJpRzyGKE7XrfRm3VCETeaEmtGt7BEmTiYmSrA9HSRbf1dsmahyqnzfse1",
   "@context": "https://w3id.org/security/v2",
-  "controller": "https://gist.githubusercontent.com/AnthonyRonning/0e9294a9d4458d7804c0fad1f432a98f/raw"
+  "controller": "https://raw.githubusercontent.com/AnthonyRonning/https-github.com-labnol-files/master/controller.json"
 }
