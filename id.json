@@ -1,0 +1,7 @@
+	{
+  "id": "https://gist.githubusercontent.com/AnthonyRonning/ee1611bea27d1f70e15278c46f72f0c2/raw/525d4148c1c77bf47ee2a59c4a46d594ce68d497/id.json",
+  "type": "EcdsaKoblitzSignature2016",
+  "publicKeyBase58": "Ree8HFLvH88dPFaGcuk8WcRwFsjGkBsJpRzyGKE7XrfRm3VCETeaEmtGt7BEmTiYmSrA9HSRbf1dsmahyqnzfse1",
+  "@context": "https://w3id.org/security/v2",
+  "controller": "https://gist.githubusercontent.com/AnthonyRonning/0e9294a9d4458d7804c0fad1f432a98f/raw"
+}
