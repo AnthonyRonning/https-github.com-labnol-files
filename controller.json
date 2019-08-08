@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/security/v2",
-  "id": "https://gist.githubusercontent.com/AnthonyRonning/0e9294a9d4458d7804c0fad1f432a98f/raw",
+  "id": "https://raw.githubusercontent.com/AnthonyRonning/https-github.com-labnol-files/master/controller.json",
   "assertionMethod": [
     "https://raw.githubusercontent.com/AnthonyRonning/https-github.com-labnol-files/master/id.json"
   ]
