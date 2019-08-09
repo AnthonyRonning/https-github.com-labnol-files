@@ -1,7 +1,7 @@
 {
   "id": "https://raw.githubusercontent.com/AnthonyRonning/https-github.com-labnol-files/master/id.json",
   "type": "EcdsaSecp256k1VerificationKey2019",
-  "publicKeyBase58": "Ree8HFLvH88dPFaGcuk8WcRwFsjGkBsJpRzyGKE7XrfRm3VCETeaEmtGt7BEmTiYmSrA9HSRbf1dsmahyqnzfse1",
+  "publicKeyBase58": "04d0de0aaeaefad02b8bdc8a01a1b8b11c696bd3d66a2c5f10780d95b7df42645cd85228a6fb29940e858e7e55842ae2bd115d1ed7cc0e82d934e929c97648cb0a",
   "@context": "https://w3id.org/security/v2",
   "controller": "https://raw.githubusercontent.com/AnthonyRonning/https-github.com-labnol-files/master/controller.json"
 }
