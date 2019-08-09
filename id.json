@@ -1,7 +1,7 @@
 {
   "id": "https://raw.githubusercontent.com/AnthonyRonning/https-github.com-labnol-files/master/id.json",
   "type": "Ed25519VerificationKey2018",
-  "publicKeyBase58": "8Zas2S7RXSnsyw71i7X8qz4jYUNGJpjxrx2qa2PXYBucswvbfN",
+  "publicKeyBase58": "2A2QyWtxKgvzR1ZuewjFXgXBiAyCXrYUsg8ygSavDaTWP",
   "@context": "https://w3id.org/security/v2",
   "controller": "https://raw.githubusercontent.com/AnthonyRonning/https-github.com-labnol-files/master/controller.json"
 }
