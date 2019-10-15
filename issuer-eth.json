@@ -8,6 +8,7 @@
   "name": "University of Learning",
   "url": "https://www.issuer.org",
   "introductionURL": "https://www.issuer.org/intro/",
+  "revocationList": "https://raw.githubusercontent.com/AnthonyRonning/https-github.com-labnol-files/master/revocation-eth.json"
   "publicKey": [
     {
       "id": "ecdsa-koblitz-pubkey:0x3d995ef85a8d1bcbed78182ab225b9f88dc8937c",
